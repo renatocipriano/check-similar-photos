@@ -1,0 +1,16 @@
+{
+  "name": "check-similar-photos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@canvas/image": "^1.0.1",
+    "blockhash-core": "^0.1.0",
+    "image-diff": "^2.0.0"
+  }
+}
